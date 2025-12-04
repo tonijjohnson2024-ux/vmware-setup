@@ -24,7 +24,7 @@ Before you begin, ensure you have:
 - At least 8 GB RAM on your host computer  
 - 40–60 GB of available disk space  
 
----
+
 
 # 1. Launch VMware Workstation
 
