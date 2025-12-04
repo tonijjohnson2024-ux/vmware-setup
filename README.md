@@ -16,7 +16,6 @@ Log in and complete initial system setup
 
 
 ## 📌 Prerequisites
-
 Before you begin, ensure you have:
 
 - VMware Workstation installed  
