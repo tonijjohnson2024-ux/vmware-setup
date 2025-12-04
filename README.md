@@ -1,9 +1,19 @@
 # VMware Workstation: Creating and Configuring a Windows Server 2022 Virtual Machine
 
-This guide explains how to create a new virtual machine in VMware Workstation and install **Windows Server 2022**.  
-It is written for **beginners** in IT and virtualization.
+This project provides a clear, step-by-step guide for creating a fully functional virtual machine in VMware Workstation Pro and installing Windows Server 2022. 
 
----
+By following this walkthrough, you will learn how to:
+
+Set up a new virtual machine from scratch
+
+Attach installation media (ISO files)
+
+Configure virtual hardware
+
+Perform a clean installation of Windows Server 2022
+
+Log in and complete initial system setup
+
 
 ## 📌 Prerequisites
 
@@ -31,7 +41,7 @@ If prompted to choose a license type:
 ### **Screenshot: License Selection**
 ![License Selection](vm2.png)
 
----
+
 
 # 2. Create a New Virtual Machine
 
@@ -39,7 +49,7 @@ If prompted to choose a license type:
 
 (Insert next screenshot here)
 
----
+
 
 # 3. Select Installation Method
 
@@ -49,7 +59,7 @@ If prompted to choose a license type:
 
 (Insert screenshot)
 
----
+
 
 # 4. Select the Guest Operating System
 
@@ -59,7 +69,7 @@ If prompted to choose a license type:
 
 (Insert screenshot)
 
----
+
 
 # 5. Name the Virtual Machine
 
@@ -69,7 +79,7 @@ If prompted to choose a license type:
 
 (Insert screenshot)
 
----
+
 
 # 6. Set Disk Capacity
 
@@ -79,7 +89,7 @@ If prompted to choose a license type:
 
 (Insert screenshot)
 
----
+
 
 # 7. Configure VM Hardware
 
@@ -94,7 +104,7 @@ If prompted to choose a license type:
 
 (Insert screenshot)
 
----
+
 
 # 8. Start the Installation
 
@@ -104,7 +114,7 @@ If prompted to choose a license type:
 
 (Insert screenshot)
 
----
+
 
 # 9. Select Windows Edition
 
@@ -115,7 +125,6 @@ Choose:
 
 (Insert screenshot)
 
----
 
 # 10. Installation Type
 
@@ -127,7 +136,7 @@ Choose the default drive → **Next**
 
 (Insert screenshot)
 
----
+
 
 # 11. Create Administrator Password
 
@@ -138,7 +147,6 @@ When prompted:
 
 (Insert screenshot)
 
----
 
 # 12. Log In
 
@@ -146,10 +154,10 @@ Press **Ctrl + Alt + Delete** in the VM window and log in using the Administrato
 
 (Insert screenshot)
 
----
+
 
 ## 🎉 Your Windows Server 2022 VM Is Ready!
 
 You now have a fully installed and functioning virtualized Windows Server environment.
 
----
+
