@@ -15,7 +15,7 @@ Perform a clean installation of Windows Server 2022
 Log in and complete initial system setup
 
 
-## 📌 Prerequisites
+## Prerequisites
 Before you begin, ensure you have:
 
 - VMware Workstation installed  
@@ -47,34 +47,40 @@ If prompted to choose a license type:
 
 # 3. Select Installation Method
 
-1. Choose **Typical**.
+1. Choose **Typical** Next
 2. Select **I will install the operating system later**.
 3. Click **Next**.
 
 ![](vm4.png)
+![](vm5.png)
 
+# 4. Select Guest Operating System
 
+1. Choose Microsoft Windows
+2. Select Windows Sever 2022
+3. Click **Next**
 
-# 4. Name the Virtual Machine
+![](vm6.png)
+
+# 5. Name the Virtual Machine
 
 1. Name your VM: **Windows Server 2022 Lab**
 2. Choose a storage location
 3. Click **Next**
 
-![](vm5.png)
+![](vm15.png)
 
 
-
-# 5. Set Disk Capacity
+# 6. Set Disk Capacity
 
 1. Set disk size to **40–60 GB**
 2. Select **Store virtual disk as a single file**
 3. Click **Next → Finish**
 
-![](vm6.png)
+![](vm7.png)
 
 
-# 6. Configure VM Hardware
+# 7. Configure VM Hardware
 
 1. Right-click the VM → **Settings**
 2. Select **CD/DVD (SATA)**
@@ -89,7 +95,7 @@ If prompted to choose a license type:
 2. Press a key when prompted to boot from the ISO
 3. Click **Next → Install Now**
 
-![](vm8.png)
+![](vm13.png)
 
 # 9. Select Windows Edition
 
@@ -98,7 +104,7 @@ Choose:
 ### ✔ **Windows Server 2022 (Desktop Experience)**  
 (This is usually the second option.)
 
-![](vm9.png)
+![](vm12.png)
 
 # 10. Installation Type
 
@@ -108,7 +114,7 @@ Select:
 
 Choose the default drive → **Next**
 
-![](vm10.png)
+![](vm14.png)
 
 
 # 11. Create Administrator Password
