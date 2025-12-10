@@ -47,11 +47,11 @@ If prompted to choose a license type:
 
 # 3. Select Installation Method
 
-1. Choose **Typical (Recommended)**.
+1. Choose **Typical**.
 2. Select **I will install the operating system later**.
 3. Click **Next**.
 
-(Insert screenshot)
+![](vm4.png)
 
 
 
@@ -61,7 +61,7 @@ If prompted to choose a license type:
 2. Choose a storage location
 3. Click **Next**
 
-(Insert screenshot)
+![](vm5.png)
 
 
 
@@ -71,8 +71,7 @@ If prompted to choose a license type:
 2. Select **Store virtual disk as a single file**
 3. Click **Next → Finish**
 
-(Insert screenshot)
-
+![](vm6.png)
 
 
 # 6. Configure VM Hardware
@@ -82,9 +81,7 @@ If prompted to choose a license type:
 3. Choose **Use ISO Image File**
 4. Select your Windows Server 2022 ISO file
 
-### Recommended VM Specs
-- **Memory:** 4–8 GB  
-- **Processors:** 2 cores  
+![](vm8.png)
 
 # 8. Start the Installation
 
@@ -92,7 +89,7 @@ If prompted to choose a license type:
 2. Press a key when prompted to boot from the ISO
 3. Click **Next → Install Now**
 
-(Insert screenshot)
+![](vm8.png)
 
 # 9. Select Windows Edition
 
@@ -101,8 +98,7 @@ Choose:
 ### ✔ **Windows Server 2022 (Desktop Experience)**  
 (This is usually the second option.)
 
-(Insert screenshot)
-
+![](vm9.png)
 
 # 10. Installation Type
 
@@ -112,8 +108,7 @@ Select:
 
 Choose the default drive → **Next**
 
-(Insert screenshot)
-
+![](vm10.png)
 
 
 # 11. Create Administrator Password
@@ -123,14 +118,14 @@ When prompted:
 - Set the Administrator password  
 - Click **Finish**
 
-(Insert screenshot)
-
+![](vm9.png)
 
 # 12. Log In
 
 Press **Ctrl + Alt + Delete** in the VM window and log in using the Administrator credentials.
 
-(Insert screenshot)
+
+![](vm10.png)
 
 
 
